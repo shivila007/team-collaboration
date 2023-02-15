@@ -1,0 +1,41 @@
+.navbar{ 
+    width: 100vw; 
+    height: 70px; 
+    display: flex; 
+    background-color: white; 
+} 
+    .nav-img{ 
+        width: 20%; 
+    } 
+    .nav-img img{
+         width: 250px; 
+         height: 40px; 
+         padding: 10px; 
+        } .nav-1{ 
+            width: 80%; 
+            padding: 10px; 
+        } 
+        .nav-btn{ 
+            border: transparent; 
+            color: black; 
+            font-size: larger; 
+            padding: 9px;
+            cursor: pointer;
+            
+         }
+             .nav-btn1{ 
+                 color: white; 
+                 border: transparent; 
+                 padding: 9px; 
+                 font-size: larger; 
+                 border-radius: 20px; 
+                 background-color: red; 
+                 cursor: pointer;
+                } 
+                 
+    .home{ 
+        width: 100vw; 
+        height: 100px; 
+        background-image: url(../../images/banner1.jpg) 
+    }
+    

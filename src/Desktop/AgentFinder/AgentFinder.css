@@ -1,0 +1,38 @@
+.mininavbar {
+    border: 1px solid red;
+    background-color: antiquewhite;
+display: inline-block;
+justify-content: space-between;
+width: 100%;
+text-align: center;
+display: inline-flex;
+justify-content: space-around;
+}
+
+.miniNavbarItems{
+    text-decoration: none;
+    padding: 5px
+}
+
+.findNav{
+    text-align: center;
+    display:inline-flex;
+    justify-content: space-between;
+    padding: 5px;
+}
+
+
+
+.inputFeild{
+    margin: 15px;
+    padding: 10px;
+}
+
+.findAgent{
+    text-align: center;
+}
+
+
+#small{
+    font-size: 15px;
+}

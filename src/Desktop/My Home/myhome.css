@@ -1,0 +1,79 @@
+
+.textContainer{
+    border: 1px solid red;
+    text-align: center;
+}
+.inputfeild{
+    border: 1px solid red;
+    border-radius: 20px;
+    margin: 10px 15px;
+    padding: 5px 10px;
+    height: 50px;
+    width: 250px;
+    background-color: rgb(241, 241, 239);
+}
+.myBtn{
+    padding: 2px;
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    background-color: brown;
+    color: white;
+}
+.myBtn:hover{
+    color: black;
+    background-color: white;
+
+}
+
+#pic1{
+    height: 200px;
+    width: 250px;
+}
+
+.mainContainer{
+    border: 1px solid red;
+    justify-content: space-around;
+    margin: 10px 15px;
+    padding: 2px;
+}
+#myhomeP{
+text-align: left;
+}
+#mainContainerText{
+    text-align: center;
+    border: 1px solid red;
+}
+
+
+.cards{
+border: 1px solid red;
+background-color: rgb(220, 221, 221);
+border-radius: 20px;
+box-shadow: 2px 3px;
+width: 600px;
+height: 400px;
+display:inline-block;
+justify-content: space-around;
+text-align: center;
+margin: 2px 5px;
+padding: 20px;
+}
+
+.cardImg{
+height: 250px;
+height: 250px;
+
+}
+
+.lastContant{
+    border: 1px solid red;
+height: 400px;
+width: 90%;
+text-align: center;
+}
+
+#houseImg{
+height: 250px;
+width: 250px;
+}

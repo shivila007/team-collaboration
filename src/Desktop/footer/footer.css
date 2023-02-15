@@ -1,0 +1,49 @@
+#smalltext{
+    margin: 5px 10px;
+    padding: 10px;
+}
+#appStore{
+   text-align: center;
+}
+.storeImage{
+    display: inline-block;
+    height: 80px;
+    width: 140px;
+    margin: 5px;
+    padding: 10px;
+
+}
+
+.allIcons{
+    text-align: center;
+    justify-content:space-around;
+}
+
+.media-icons{
+    height: 60px;
+    width: 60px;
+    text-align: center;
+}
+.media-icons:hover{
+    color: rgb(230, 59, 59);
+}
+
+#lowerImg{
+    text-align: center;
+    padding: 20px;
+    margin: 0px;
+    width: 100%;
+    height: 200px;
+    background-position:center;
+}
+
+
+#atlast{
+    border: 1px solid red;
+    text-align: center;
+    background-color: bisque;
+    color: red;
+}
+#atlast:hover{
+    color: blue;
+}
